@@ -1,0 +1,4 @@
+system,Recall@1,Recall@5,MRR@10,MeanLatencyMs
+BM25,0.95,1.0,0.9667,0.315
+Dense,0.95,1.0,0.975,10.287
+Hybrid,0.95,1.0,0.975,2.601

@@ -1,6 +1,6 @@
 import markdown, os, subprocess
 
-names = ['literature_review', 'error_analysis', 'recommendation']
+names = ['literature_review', 'error_analysis', 'recommendation', 'research_report']
 os.makedirs('docs/pdf', exist_ok=True)
 for name in names:
     md = open(f'docs/{name}.md').read()
