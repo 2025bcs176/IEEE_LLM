@@ -1,0 +1,40 @@
+{"id": "doc_003", "text": "Fusion for Energy (F4E) is the European Union organisation that coordinates the European contribution to the construction of the IFMIF-DONES facility in Granada, Spain, on behalf of Euratom."}
+{"id": "doc_018", "text": "The continuous liquid target loop uses liquid lithium to generate the high neutron flux; lithium flows as a free jet across the beam footprint."}
+{"id": "doc_029", "text": "The liquid lithium jet is designed to flow at approximately 15 m/s at the beam interaction zone to ensure adequate heat removal and target stability."}
+{"id": "doc_034", "text": "The deuteron beam strikes the flowing lithium target with a rectangular footprint of about 200 mm by 50 mm."}
+{"id": "doc_042", "text": "The IFMIF-DONES accelerator is designed for a nominal deuteron beam energy of 40 MeV at a beam current of 125 mA."}
+{"id": "doc_049", "text": "The Radio Frequency Quadrupole (RFQ) in the injector section operates at a radio frequency of 175 MHz."}
+{"id": "doc_055", "text": "The superconducting radio-frequency (SRF) linear accelerator requires a beam current of 125 mA for full-power operation."}
+{"id": "doc_061", "text": "The main acceleration cryomodules employ half-wave resonator (HWR) superconducting cavities operating at 175 MHz."}
+{"id": "doc_077", "text": "Vacuum pressure in the beamline is maintained at 1e-7 mbar using turbo-molecular pumps and cryogenic pumps."}
+{"id": "doc_081", "text": "Beam loss is mitigated by a low-loss lattice, collimators and beam diagnostics to prevent excessive activation of the beam pipe."}
+{"id": "doc_088", "text": "The DONES neutron energy spectrum peaks around 14 MeV and is tailored to match the first-wall spectrum of the DEMO fusion reactor for fusion materials testing."}
+{"id": "doc_093", "text": "Material samples in the High Flux Test Module (HFTM) are actively cooled by helium gas flowing through channels in the specimen holder."}
+{"id": "doc_112", "text": "Boiling of liquid lithium is prevented by maintaining high flow velocity and pressure, keeping lithium subcooled as it absorbs the 5 MW beam power."}
+{"id": "doc_115", "text": "Tested reduced-activation steel samples are expected to reach about 20 displacements per atom (dpa) per year in the high-flux region."}
+{"id": "doc_122", "text": "The lithium target structural support (backplate) is engineered for an operational cycle of 11 months before dpa-induced embrittlement necessitates component swap."}
+{"id": "doc_137", "text": "Impurities such as nitrogen and oxygen are removed from the lithium inventory by cold trapping and gettering with yttrium."}
+{"id": "doc_142", "text": "Diagnostics monitoring the liquid lithium free surface include laser-based thickness sensors and videometry for stability."}
+{"id": "doc_158", "text": "First-phase testing prioritises Eurofer97 and F82H variants of reduced-activation ferritic/martensitic (RAFM) steels."}
+{"id": "doc_184", "text": "Irradiated capsules are transferred from the test module to hot cells via a pneumatic rabbit system and shielded casks for post-irradiation examination."}
+{"id": "doc_201", "text": "Safety containment protocols for tritium produced in the lithium loop include double confinement, tritium recovery systems and negative pressure gloveboxes."}
+{"id": "doc_010", "text": "IFMIF-DONES is a particle accelerator facility under construction in Granada, Spain, for fusion materials testing."}
+{"id": "doc_012", "text": "The DEMO fusion reactor neutron spectrum is widely studied for plasma-facing components and breeding blankets."}
+{"id": "doc_045", "text": "Lithium-tritium reactions in the loop are analysed for tritium breeding and inventory control."}
+{"id": "doc_100", "text": "The accelerator injector includes an electron cyclotron resonance ion source producing deuterons."}
+{"id": "doc_101", "text": "Beam optics in the low-energy beam transport section focus the deuteron beam before the RFQ."}
+{"id": "doc_102", "text": "The medium-energy beam transport contains buncher cavities and quadrupole magnets."}
+{"id": "doc_103", "text": "Superconducting solenoids provide transverse focusing in the SRF linac cryomodules."}
+{"id": "doc_104", "text": "The high-energy beam transport delivers the beam to the lithium target with minimal loss."}
+{"id": "doc_105", "text": "Beam diagnostics include beam position monitors, profile monitors and Faraday cups."}
+{"id": "doc_106", "text": "The lithium loop includes a heat exchanger to remove the 5 MW deposited by the beam."}
+{"id": "doc_107", "text": "Cold traps in the lithium loop collect impurities by condensation at low temperature."}
+{"id": "doc_108", "text": "Yttrium getters chemically bind nitrogen and oxygen dissolved in liquid lithium."}
+{"id": "doc_109", "text": "The target backplate is made of a RAFM steel to withstand radiation damage."}
+{"id": "doc_110", "text": "Post-irradiation examination of samples is performed in hot cells with remote manipulators."}
+{"id": "doc_111", "text": "Material samples are encapsulated and placed in the high-flux region of the HFTM."}
+{"id": "doc_113", "text": "Neutron flux in DONES reaches about 1e18 n/m2/s in the high-flux test region."}
+{"id": "doc_114", "text": "The DEMO reactor requires materials to withstand up to 20 dpa per full-power year."}
+{"id": "doc_116", "text": "Eurofer97 is a reduced-activation ferritic-martensitic steel developed for fusion applications."}
+{"id": "doc_117", "text": "F82H is a Japanese reduced-activation ferritic-martensitic steel for fusion reactors."}
+{"id": "doc_118", "text": "Helium cooling in the HFTM provides efficient heat removal from specimens."}

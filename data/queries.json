@@ -1,0 +1,82 @@
+[
+  {
+    "id": "q_01",
+    "text": "What is the planned nominal operating energy of the deuteron beam in the IFMIF-DONES accelerator?"
+  },
+  {
+    "id": "q_02",
+    "text": "Which material is utilized for the continuous liquid target loop to generate the neutron flux?"
+  },
+  {
+    "id": "q_03",
+    "text": "What is the expected structural degradation rate, measured in displacements per atom (dpa) per year, for the tested steel samples?"
+  },
+  {
+    "id": "q_04",
+    "text": "How does the neutron energy spectrum of DONES compare to the spectrum expected in the DEMO fusion reactor?"
+  },
+  {
+    "id": "q_05",
+    "text": "What specific organization coordinates the European contribution to the IFMIF-DONES construction in Granada?"
+  },
+  {
+    "id": "q_06",
+    "text": "What is the required beam current for the superconducting radio-frequency (SRF) linear accelerator?"
+  },
+  {
+    "id": "q_07",
+    "text": "Which diagnostics are implemented to monitor the stability and thickness of the liquid lithium free surface?"
+  },
+  {
+    "id": "q_08",
+    "text": "What are the safety containment protocols for managing the radioactive tritium produced within the lithium loop?"
+  },
+  {
+    "id": "q_09",
+    "text": "How are the material samples actively cooled within the High Flux Test Module (HFTM)?"
+  },
+  {
+    "id": "q_10",
+    "text": "What type of superconducting cavities are utilized in the main acceleration cryomodules?"
+  },
+  {
+    "id": "q_11",
+    "text": "What is the rectangular footprint size of the deuteron beam as it strikes the flowing lithium target?"
+  },
+  {
+    "id": "q_12",
+    "text": "How is the vacuum pressure maintained at the required 10^-7 mbar threshold within the beamline?"
+  },
+  {
+    "id": "q_13",
+    "text": "What mechanism prevents the boiling of the liquid lithium as it absorbs the 5 MW beam power?"
+  },
+  {
+    "id": "q_14",
+    "text": "Which specific variants of reduced-activation ferritic/martensitic (RAFM) steels are prioritized for the first testing phase?"
+  },
+  {
+    "id": "q_15",
+    "text": "What is the expected flow velocity of the liquid lithium jet at the beam interaction zone?"
+  },
+  {
+    "id": "q_16",
+    "text": "How will the irradiated material capsules be transported from the test module to the hot cells for post-irradiation examination?"
+  },
+  {
+    "id": "q_17",
+    "text": "What RF frequency operates the Radio Frequency Quadrupole (RFQ) in the accelerator's injector section?"
+  },
+  {
+    "id": "q_18",
+    "text": "What is the designed lifespan of the lithium target backplate before it requires replacement due to radiation damage?"
+  },
+  {
+    "id": "q_19",
+    "text": "How does the accelerator system mitigate beam loss to prevent excessive activation of the beam pipe?"
+  },
+  {
+    "id": "q_20",
+    "text": "What purification methods are used to extract impurities like nitrogen and oxygen from the circulating lithium inventory?"
+  }
+]
